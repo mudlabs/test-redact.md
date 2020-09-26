@@ -1,2 +1,2 @@
-# This is a File
-It is written in Markdown
+# File
+Written in Markdown
