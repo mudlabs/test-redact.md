@@ -1,4 +1,4 @@
-# Secrete File....
+# Secrete File.
 Written in Markdown and ready for redaction
  - **point**
  - _point_
