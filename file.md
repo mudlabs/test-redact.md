@@ -1,2 +1,2 @@
 # File
-Written in Markdown
+Written in Markdown and ready for redaction
