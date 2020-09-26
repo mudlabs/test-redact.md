@@ -6,6 +6,9 @@ name: Test Redact.md
 # events but only for the master branch
 on:
   push:
+  
+env:
+  token: secrets.GITHUB_TOKEN
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
