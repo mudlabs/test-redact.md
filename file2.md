@@ -1,1 +1,1 @@
-New file of secrets
+New file of secrets to be redacted
