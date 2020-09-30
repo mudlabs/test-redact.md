@@ -19,4 +19,4 @@ jobs:
       - id: test
         uses: mudlabs/github-action-redact.md@master
         with:
-          comma-list: 'in'
+          comma-list: 'in, out'
